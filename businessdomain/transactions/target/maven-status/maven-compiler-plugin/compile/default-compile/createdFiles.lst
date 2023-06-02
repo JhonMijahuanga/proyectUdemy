@@ -1,0 +1,9 @@
+com\paymentchain\transactions\TransactionsApplication.class
+com\paymentchain\transactions\entities\Transactions.class
+com\paymentchain\transactions\respository\ReadOnlyRepository.class
+com\paymentchain\transactions\controller\TransactionsRestController.class
+com\paymentchain\transactions\entities\Channel.class
+com\paymentchain\transactions\entities\Status.class
+service\impl\TransactionServiceImpl.class
+service\TransactionService.class
+com\paymentchain\transactions\respository\TransactionsRepository.class
